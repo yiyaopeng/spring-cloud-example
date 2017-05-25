@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/admin-server/admin-server.iml" filepath="$PROJECT_DIR$/admin-server/admin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign-demo/feign-demo.iml" filepath="$PROJECT_DIR$/feign-demo/feign-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-demo/rest-demo.iml" filepath="$PROJECT_DIR$/rest-demo/rest-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-example-parent.iml" filepath="$PROJECT_DIR$/springcloud-example-parent.iml" />
+    </modules>
+  </component>
+</project>
